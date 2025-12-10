@@ -41,13 +41,13 @@ NIM_NamaLengkap_JudulTubes.py
 - Ekstensi file `.py`
 
 ## ❗ Cara Upload Source Code
-
+bisa di lihat melalui video: https://github.com/desyadelina/ALPRO_G-TubesSMT1-2025/blob/main/TUTOR%20UPLOAD%20FILE.mp4
+click `View raw`
 ### 1. Via Pull Request
 1. Fork repository ini
-2. Clone repository hasil fork ke komputer kamu
-3. Tambahkan file source code kamu ke folder `submissions/` link: https://github.com/desyadelina/ALPRO_G-TubesSMT1-2025/tree/main/submissions
-4. Commit dan push ke repository fork kamu
-5. Buat Pull Request ke repository utama
+2. Tambahkan file source code kamu ke folder `submissions/` link: https://github.com/desyadelina/ALPRO_G-TubesSMT1-2025/tree/main/submissions
+3. Commit dan push ke repository fork kamu
+4. Buat Pull Request ke repository utama
 
 ## Deadline Pengumpulan
 **Deadline:** Setelah UAS Selesai (Akan diinformasikan lebih lanjut)
